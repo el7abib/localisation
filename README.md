@@ -1,5 +1,5 @@
 #  Localisation par Trilatération
-
+[![Voir le notebook](https://img.shields.io/badge/Jupyter-Voir%20le%20notebook-orange?logo=jupyter)](https://nbviewer.org/github/el7abib/localisation/blob/main/locatri.ipynb)
 Projet du cours **UM4MA266 — Optimisation numérique et science des données** (Master Mathématiques, Sorbonne Université).
 
 Implémentation et comparaison de plusieurs algorithmes d'optimisation pour résoudre le problème de localisation par trilatération, inspiré du principe de fonctionnement du GPS.
